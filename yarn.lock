@@ -6555,9 +6555,9 @@ tiny-glob@^0.2.9:
     globrex "^0.1.2"
 
 tinymce@^6.3.0:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-6.3.0.tgz#30e53a688247a48b8c67a28cd0b0964b7a7591e0"
-  integrity sha512-UeOKdbDbBoAT2A8WQr/D4AqzqPloTY/B/zJXCGlPz5L4YOmwUCqXAFTxN1tkysRq994UIZZUJZezC7WmCDx5ag==
+  version "6.3.1"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-6.3.1.tgz#cc5cf2b9f702d429cf5d1d21ed62245d768bfc4f"
+  integrity sha512-+oCwXuTxAdJXVJ0130OxQz0JDNsqg3deuzgeUo8X5Vb27EzCJgXwO5eWvCxvkxpQo4oiHMVlM4tUIpTUHufHGQ==
 
 tinyqueue@^1.2.3:
   version "1.2.3"
